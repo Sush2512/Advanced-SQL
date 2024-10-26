@@ -1,4 +1,4 @@
-#Project Reflection: SQL Advanced Concepts Repository
+# SQL Advanced Concepts
 
 ## Summary
 This repository contains SQL scripts that demonstrate advanced concepts, including stored procedures, views, window functions, and subqueries. The focus is on enhancing SQL proficiency for effective data management and analysis.
